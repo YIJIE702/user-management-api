@@ -33,11 +33,11 @@ This project was created to meet the following criteria:
 ---
 
 ## 🚧 Future Improvements
-Replace in-memory store with a persistent database.
-Implement JWT authentication for production readiness.
-Add role-based access control for fine-grained permissions.
-Integrate Swagger / OpenAPI documentation.
-Add unit tests with xUnit to verify controller and service functionality.
+- Replace in-memory store with a persistent database.
+- Implement JWT authentication for production readiness.
+- Add role-based access control for fine-grained permissions.
+- Integrate Swagger / OpenAPI documentation.
+- Add unit tests with xUnit to verify controller and service functionality.
 
 ---
 
